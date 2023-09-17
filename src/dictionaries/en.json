@@ -1,0 +1,14 @@
+{
+  "Home": "Home",
+  "form": {
+    "name": "name",
+    "email": "email",
+    "password": "password"
+  },
+  "MePage": "My Page",
+  "HelloAboutPage": "Hello in AboutPage",
+  "changLang": "chang lang",
+  "goToAbout": "goToAbout",
+  "goToAboutMe": "goToAboutMe",
+  "goToHome": "goToHome"
+}

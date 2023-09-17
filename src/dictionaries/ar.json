@@ -1,0 +1,14 @@
+{
+    "Home": "الصفحة الرئيسية",
+    "form": {
+        "name": "الاسم",
+        "email": "البريد الالكتروني",
+        "password": "كلمة المرور"
+    },
+    "MePage": "صفحتي الشخصية",
+    "HelloAboutPage": "مرحبًا في صفحة About ",
+    "changLang": "تغيير اللغة",
+    "goToAbout":" الى صفحة About ",
+    "goToAboutMe": "الى صفحتي الشخصية",
+    "goToHome": "الصفحة الرئيسية"
+}
